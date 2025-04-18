@@ -74,9 +74,9 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 
 ## Książki i publikacje
 
-* [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia. Wydanie II, - A. Roman](https://ksiegarnia.pwn.pl/Testowanie-i-jakosc-oprogramowania.,958393708,p.html?srsltid=AfmBOor6BAL774TWFhI_pzoe-W-Pyv8elv40Kbaaymn5nNJ9KdrZi2gt)
+* [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia. Wydanie II - A. Roman](https://ksiegarnia.pwn.pl/Testowanie-i-jakosc-oprogramowania.,958393708,p.html?srsltid=AfmBOor6BAL774TWFhI_pzoe-W-Pyv8elv40Kbaaymn5nNJ9KdrZi2gt)
 * [Zawód tester. Od decyzji do zdobycia doświadczenia - R. Smilgin](https://ksiegarnia.pwn.pl/Zawod-tester,750906499,p.html)
-* [Praktyka testowania. Zeszyt ćwiczeń. - R. Smilgin](https://ksiegarnia.pwn.pl/Praktyka-testowania,847295499,p.html?srsltid=AfmBOorbKDLaF0fb9P30pLSziSvsTkyx3-hoPVrmkpzkpeebghQrg6WC)
+* [Praktyka testowania. Zeszyt ćwiczeń - R. Smilgin](https://ksiegarnia.pwn.pl/Praktyka-testowania,847295499,p.html?srsltid=AfmBOorbKDLaF0fb9P30pLSziSvsTkyx3-hoPVrmkpzkpeebghQrg6WC)
 * [SQL. Ćwiczenia praktyczne. Wydanie III - M. Lis](https://helion.pl/ksiazki/sql-cwiczenia-praktyczne-wydanie-iii-marcin-lis,cwsql3.htm#format/e)
 * [Git i GitHub. Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej - M. Tsitoara](https://helion.pl/ksiazki/git-i-github-kontrola-wersji-zarzadzanie-projektami-i-zasady-pracy-zespolowej-mariot-tsitoara,wprgit.htm#format/d)
 * [Python dla testera - P. Wróblewski](https://helion.pl/ksiazki/python-dla-testera-piotr-wroblewski,pyttes.htm#format/d)
