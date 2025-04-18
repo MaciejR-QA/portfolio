@@ -13,9 +13,6 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 
 ## Umiejętności testerskie
 
-* ISTQB: Certyfikowany Tester Poziom Podstawowy
-* MITC Software Testing - Level 01 (Eng.) - egzamin praktyczny
-
 ### Testowanie manualne:
 * Tworzenie przypadków i scenariuszy testowych. 
 * Raportowanie błędów.
