@@ -100,7 +100,7 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 ## Moje wybrane dokumentacje testowe
 
 * Testy eksploracyjne
-  * [Plan testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/plan_testow) 
+  * [Plan testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/plan_testów/) 
   * [1 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/Maciej_Rodak_raport_z_testów_eksploracyjnych_-_1_sesja_testów_-_12.11.2022.pdf)
   * [2 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/Maciej_Rodak_raport_z_testów_eksploracyjnych_-_2_sesja_testów_-_12.11.2022.pdf)
   * [3 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/Maciej_Rodak_raport_z_testów_eksploracyjnych_-_3_sesja_testów_-_13.11.2022.pdf)
