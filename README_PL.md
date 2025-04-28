@@ -107,32 +107,36 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 
 ## Moja dokumentacja testowa
 
-* Bug Reports
-* Test Reports
-* Test Cases
-* Test Scenarios
+* Testy eksploracyjne
+* **1 sesja z testów**
+* **2 sesja z testów**
+* **3 sesja z testów**
+* **4 sesja z testów**
+* **5 sesja z testów**
 
-* Tworzenie przypadków i scenariuszy testowych. 
-* Raportowanie błędów.
-* Testowanie w cyklu życia oprogramowania.
-* Testowanie statyczne.
-* Testowanie eksploracyjne.
-* Testowanie Api w narzędziu Postman.
-* Tworzenie planu testów.
-* Testowanie w oparciu o specyfikację.   
-* Podstawowe techniki testowania oparte na strukturze.
+* Tworzenie przypadków testowych w TestLink na bazie specyfikacji
+* **Specyfikacja**
+* **Tabela decyzyjna**
+* **Klasy równoważności**
+* **Przypadki testowe**
 
-## Moje projekty
+* Przeprowadzanie testów i zaraportowanie defektów w formie video narzędziu do zarządzania defektami (Mantis)
+* **Zgłoszenia błędów**
+* **Nagrania wideo potwierdzające zgłaszane błędy**
 
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl) - Website prepared for future Software Testers. There, you will find the necessary information on how to become a Tester. In the articles, you will learn what problems testers are facing.
-* **Sii Calendar 2020 - Power People, Be Yourself, Be Proud** - Modeling in Sii Calendar.
-* **Technical Trainer** - Technical Trainer in "Zostań Testerem" ("Become Tester") project. Providing knowledge in ISTQB Foundation Level Theory.
-* E-learning Courses Author:
-  * Testing with RestAssured
-  * Postman
-  * Tomcat/Maven
-  * Oracle
-  * Introduction to SQL.
-* **Sii Calendar 2019 - Behind Every Great Project There Are Sii Power People** - Modeling in Sii Calendar. 
-* **Project Manager of Sii Power People Lublin** - Runners Team Coordination.
-* **Global Campaign - Great Place to Work 2018** - Outdoor and online marketing campaign to promote Great Place To Work award obtained by Sii.
+* Tworzenie kolekcji zapytań dla testów API w narządziu Postman
+* **Zrzuty ekranu**
+* **Pliki json**
+
+* Przygotowanie planu testów dla procesu testowego w aplikacji sklepu internetowego
+* **Plan testów**
+
+* Tworzenie uruchamialnych skryptów testów automatycznych (Selenium IDE)
+* **Zrzuty ekranu**
+* **Plik side**
+
+* Przygotowywanie scenariuszy testowych
+
+* Testowanie statyczne
+
+* Testowanie w cyklu życia oprogramowania
