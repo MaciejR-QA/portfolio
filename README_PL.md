@@ -14,43 +14,35 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 ## Umiejętności testerskie
 
 ### Testowanie manualne:
-* Tworzenie przypadków i scenariuszy testowych. 
-* Raportowanie błędów.
-* Testowanie w cyklu życia oprogramowania.
-* Testowanie statyczne.
-* Testowanie eksploracyjne.
-* Testowanie Api w narzędziu Postman.
-* Tworzenie planu testów.
-* Testowanie w oparciu o specyfikację.   
-* Podstawowe techniki testowania oparte na strukturze.
+* Tworzenie przypadków i scenariuszy testowych 
+* Raportowanie błędów
+* Testowanie w cyklu życia oprogramowania
+* Testowanie statyczne
+* Testowanie eksploracyjne
+* Testowanie Api w narzędziu Postman
+* Tworzenie planu testów
+* Testowanie w oparciu o specyfikację
+* Podstawowe techniki testowania oparte na strukturze
 
 ### Automatyzacja testów:
-* Automatyzacja testów w Cypress.
-* Przygotowywanie uruchamialnych skryptów testów automatycznych w Selenium IDE.
+* Automatyzacja testów w Cypress
+* Przygotowywanie uruchamialnych skryptów testów automatycznych w Selenium IDE
 
 #### Testy wydajnościowe:
-* Projektowanie efektywnych scenariuszy testowych. 
-* Testowanie wydajności bazy danych.
+* Projektowanie efektywnych scenariuszy testowych
+* Testowanie wydajności bazy danych
 
 ### Bazy danych:
 * Tworzenie złożonych zapytań SQL
-* Analiza danych z wykorzystaniem różnych technik.
+* Analiza danych z wykorzystaniem różnych technik
 
 ### Języki programowania:
-* Podstawy programowania Python.
-* Podstawy programowania Java.
+* Podstawy programowania Python
+* Podstawy programowania Java
 
 ### Pozostałe umiejętności:
-* Zarządzanie wersjami oprogramowania z wykorzystaniem Git oraz GitHub.
-* Korzystanie z narzędzi deweloperskich dostępnych z poziomu przeglądarki (DevTools).
-
-* Bazy danych: MS SQL
-* Languages: Java, Javascript (Test Automation)
-* Testing: Selenium, TestNG, JUnit, Mocha, Postman, Rest Assured, ARC, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
-* Frameworks: Angular, CAS, ExtJS, Hibernate, JSF, Microsoft Silverlight, Redux, Spring, Vaadin, .NET
-* Version Control Systems: Bitbucket, Git, Gitlab, SVN
-* CI: Jenkins, TeamCity
-* Other tools: Confluence, JIRA, Redmine, Trello, TestLink, Maven, Node.js, npm/yarn
+* Zarządzanie wersjami oprogramowania z wykorzystaniem Git oraz GitHub
+* Korzystanie z narzędzi deweloperskich dostępnych z poziomu przeglądarki (DevTools)
 
 ## Kursy 
 
