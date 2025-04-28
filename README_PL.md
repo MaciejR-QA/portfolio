@@ -97,7 +97,7 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 * Microsoft Word
 * Narzędzia do personalizowania druku.
 
-## Moje wybrane dokumentacje testowe
+## Moje wybrane dokumentacje testowe (stała aktualizacja)
 
 * Testy eksploracyjne
   * [Plan testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/plan_testów/) 
@@ -111,28 +111,26 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
   * [Specyfikacja](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/przypadki_testowe_TestLink/specyfikacja/)
   * [Przypadki testowe](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/przypadki_testowe_TestLink/)
   
-* Przeprowadzanie testów i zaraportowanie defektów w formie video narzędziu do zarządzania defektami (Mantis)
+* Przeprowadzanie testów i zaraportowanie defektów w formie wideo narzędziu do zarządzania defektami (Mantis)
   * Zgłoszenia błędów
   * Nagrania wideo potwierdzające zgłaszane błędy
 
 * Tworzenie kolekcji zapytań dla testów API w narządziu Postman
   * Zrzuty ekranu
-  * Pliki json
+  * Pliki (.json)
 
 * Przygotowanie planu testów dla procesu testowego w aplikacji sklepu internetowego
   * Plan testów
 
 * Tworzenie uruchamialnych skryptów testów automatycznych (Selenium IDE)
   * Zrzuty ekranu
-  * Plik side
+  * Plik (.side)
 
 * Testowanie wydajności w JMeter
   * Plan testów Jmeter (.jmx)
   * Zobacz raport wydajności
 
-
 * Przygotowywanie scenariuszy testowych
-
 * Testowanie statyczne
-
 * Testowanie w cyklu życia oprogramowania
+* Przykładowe zapytania SQL
