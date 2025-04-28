@@ -101,7 +101,7 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 
 * Testy eksploracyjne
   * [Plan testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/plan_testów/) 
-  * [1 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/1_sesja/)
+  * [1 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/1_sesja)
   * [2 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/2_sesja/)
   * [3 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/3_sesja/)
   * [4 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/4_sesja/)
