@@ -101,10 +101,10 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 
 * Testy eksploracyjne
   * [1 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/Maciej_Rodak_raport_z_testów_eksploracyjnych_-_1_sesja_testów_-_12.11.2022.pdf)
-  * 2 sesja z testów
-  * 3 sesja z testów
-  * 4 sesja z testów
-  * 5 sesja z testów
+  * [2 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/Maciej_Rodak_raport_z_testów_eksploracyjnych_-_2_sesja_testów_-_12.11.2022.pdf)
+  * [3 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/Maciej_Rodak_raport_z_testów_eksploracyjnych_-_3_sesja_testów_-_13.11.2022.pdf)
+  * [4 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/Maciej_Rodak_raport_z_testów_eksploracyjnych_-_4_sesja_testów_-_13.11.2022.pdf)
+  * [5 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/Maciej_Rodak_raport_z_testów_eksploracyjnych_-_5_sesja_testów_-_13.11.2022.pdf)
 
 * Tworzenie przypadków testowych w TestLink na bazie specyfikacji
   * Specyfikacja
