@@ -108,7 +108,7 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
   * [5 sesja z testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_eksploracyjne/5_sesja/)
 
 * Tworzenie przypadków testowych w TestLink na bazie specyfikacji
-  * [Specyfikacja](https://github.com/MaciejR-QA/portfolio\pliki/przypadki_testowe_TestLink/specyfikacja/)
+  * [Specyfikacja](https://github.com/MaciejR-QA/portfolio/pliki/przypadki_testowe_TestLink/specyfikacja/)
   * [Przypadki testowe](https://github.com/MaciejR-QA/portfolio/pliki/przypadki_testowe_TestLink/)
   
 * Przeprowadzanie testów i zaraportowanie defektów w formie video narzędziu do zarządzania defektami (Mantis)
