@@ -108,32 +108,32 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 ## Moja dokumentacja testowa
 
 * Testy eksploracyjne
-* **1 sesja z testów**
-* **2 sesja z testów**
-* **3 sesja z testów**
-* **4 sesja z testów**
-* **5 sesja z testów**
+  * 1 sesja z testów
+  * 2 sesja z testów
+  * 3 sesja z testów
+  * 4 sesja z testów
+  * 5 sesja z testów
 
 * Tworzenie przypadków testowych w TestLink na bazie specyfikacji
-* **Specyfikacja**
-* **Tabela decyzyjna**
-* **Klasy równoważności**
-* **Przypadki testowe**
+  * Specyfikacja
+  * Tabela decyzyjna
+  * Klasy równoważności
+  * Przypadki testowe
 
 * Przeprowadzanie testów i zaraportowanie defektów w formie video narzędziu do zarządzania defektami (Mantis)
-* **Zgłoszenia błędów**
-* **Nagrania wideo potwierdzające zgłaszane błędy**
+  * Zgłoszenia błędów
+  * Nagrania wideo potwierdzające zgłaszane błędy
 
 * Tworzenie kolekcji zapytań dla testów API w narządziu Postman
-* **Zrzuty ekranu**
-* **Pliki json**
+  * Zrzuty ekranu
+  * Pliki json
 
 * Przygotowanie planu testów dla procesu testowego w aplikacji sklepu internetowego
-* **Plan testów**
+  * Plan testów
 
 * Tworzenie uruchamialnych skryptów testów automatycznych (Selenium IDE)
-* **Zrzuty ekranu**
-* **Plik side**
+  * Zrzuty ekranu
+  * Plik side
 
 * Przygotowywanie scenariuszy testowych
 
