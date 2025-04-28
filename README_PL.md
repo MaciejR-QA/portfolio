@@ -97,7 +97,7 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 * Microsoft Word
 * Narzędzia do personalizowania druku.
 
-## Moja dokumentacja testowa
+## Moje wybrane dokumentacje testowe
 
 * Testy eksploracyjne
   * 1 sesja z testów
@@ -126,6 +126,11 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 * Tworzenie uruchamialnych skryptów testów automatycznych (Selenium IDE)
   * Zrzuty ekranu
   * Plik side
+
+* Testowanie wydajności w JMeter
+  * Plan testów Jmeter (.jmx)
+  * Zobacz raport wydajności
+
 
 * Przygotowywanie scenariuszy testowych
 
