@@ -111,9 +111,9 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
   * [Specyfikacja](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/przypadki_testowe_TestLink/specyfikacja/)
   * [Przypadki testowe](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/przypadki_testowe_TestLink/)
   
-* Przeprowadzanie testów i zaraportowanie defektów w formie wideo narzędziu do zarządzania defektami (Mantis)
-  * Zgłoszenia błędów
-  * Nagrania wideo potwierdzające zgłaszane błędy
+* Przeprowadzanie testów i zaraportowanie defektów w formie wideo narzędziu do zarządzania defektami
+  * [Zgłoszenia błędów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/defekty_wideo/zgłoszenia_błędów/)
+  * [Nagrania wideo potwierdzające zgłaszane błędy (wybrane)](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/defekty_wideo/)
 
 * Tworzenie kolekcji zapytań dla testów API w narządziu Postman
   * Zrzuty ekranu
