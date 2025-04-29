@@ -120,7 +120,7 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
   * Pliki (.json)
 
 * Przygotowanie planu testów dla procesu testowego w aplikacji sklepu internetowego
-  * Plan testów
+  * [Plan testów](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/plan_testów/)
 
 * Tworzenie uruchamialnych skryptów testów automatycznych (Selenium IDE)
   * Zrzuty ekranu
