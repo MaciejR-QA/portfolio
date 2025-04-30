@@ -134,4 +134,6 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 * Przygotowywanie scenariuszy testowych
 * Testowanie statyczne
 * Testowanie w cyklu życia oprogramowania
-* Przykładowe zapytania SQL
+* Zapytania SQL
+* Java
+* Python
