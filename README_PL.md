@@ -127,8 +127,9 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
   * [Plik (.side)](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/skrypt_Selenium)
 
 * Testowanie wydajności w JMeter
-  * Plan testów Jmeter (.jmx)
-  * Raport wydajności
+  * [Scenariusz testowy](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_wydajności_JMeter/scenariusz/)
+  * [Testy wydajności (.jmx)](https://github.com/MaciejR-QA/portfolio/tree/master/pliki//testy_wydajności_JMeter/testy/)
+  * [Raport z testów wydajności (HTML)](https://github.com/MaciejR-QA/portfolio/tree/master/pliki//testy_wydajności_JMeter/raport)
 
 * Przygotowywanie scenariuszy testowych
 * Testowanie statyczne
