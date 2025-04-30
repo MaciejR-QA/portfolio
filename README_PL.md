@@ -129,7 +129,7 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 * Testowanie wydajności w JMeter
   * [Scenariusz testowy](https://github.com/MaciejR-QA/portfolio/tree/master/pliki/testy_wydajności_JMeter/scenariusz/)
   * [Testy wydajności (.jmx)](https://github.com/MaciejR-QA/portfolio/tree/master/pliki//testy_wydajności_JMeter/testy/)
-  * [Raport z testów wydajności (HTML)](https://github.com/MaciejR-QA/portfolio/tree/master/pliki//testy_wydajności_JMeter/raport)
+  * [Raport z testów wydajności (.jtl + HTML)](https://github.com/MaciejR-QA/portfolio/tree/master/pliki//testy_wydajności_JMeter/raport)
 
 * Przygotowywanie scenariuszy testowych
 * Testowanie statyczne
