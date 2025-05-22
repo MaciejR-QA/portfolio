@@ -26,7 +26,7 @@ Od dawna chciałem pracować w IT, dlatego szukam szans na rozwój, szczególnie
 * Automatyzacja testów end-to-end w Cypress
 * Projektowanie i uruchamianie skryptów testowych w Selenium IDE
 
-#### Testy wydajnościowe:
+### Testy wydajnościowe:
 * Projektowanie scenariuszy testowych w JMeter
 * Testowanie wydajności baz danych
 
