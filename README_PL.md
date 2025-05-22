@@ -80,9 +80,9 @@ Od dawna chciałem pracować w IT, dlatego szukam szans na rozwój, szczególnie
 * Git, GitHub,
 * PyCharm, IntelliJ IDEA
 * ChatGPT, Cursor, Copilot
-* Adobe Illustrator, Corel Draw
-* Microsoft Excel, Microsoft Word
 * DevTools
+* Adobe Illustrator, Corel Draw
+* Microsoft Office - MS Excel, MS Word, MS PowerPoint
 * Narzędzia do zrzutów ekranu, nagrań wideo oraz personalizacji.
 
 ## Moje wybrane dokumentacje testowe (stała aktualizacja)
