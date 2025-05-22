@@ -2,7 +2,8 @@
 
 ## O mnie
 
-Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą, która z zaangażowaniem przebranżowiła się na testera oprogramowania. Moja wieloletnia praca z technologią, współpraca w zespołach oraz realizacja obowiązków, nauczyły mnie dbać o jakość, precyzję i dobrze organizować czas, co jest kluczowe w testowaniu oprogramowania. Edukacja i doświadczenie zawodowe, oprócz powyższych, rozwinęły moje zdolności analityczne, techniczne i miękkie, a umiejętność szybkiego przystosowywania się do nowych wyzwań pozwoliła mi sprawnie realizować zadania, odwdzięczając się za obdarzone zaufanie. Obecnie, jako certyfikowany tester ISTQB i MITC z zapałem rozwijam swoje umiejętności testerskie oraz te z zakresu analizy danych.
+Jestem osobą pozytywną, pracowitą i zaangażowaną, która z pasją przebranżowiła się na testera oprogramowania. Staż oraz certyfikaty ISTQB i MITC wspierają mój rozwój w kierunku testera. Choć pochodzę z innej branży, wiele z tego, czego się nauczyłem, mogę zastosować na w nowej roli. To m.in. praca z wieloma osobami w zróżnicowanych zespołach, dbałość o jakość, precyzja i analityczne podejście. Zarządzałem procesami, obsługiwałem zaawansowane systemy i maszyny, rozwijając umiejętności techniczne, odpowiedzialność za terminowość oraz efektywność. 
+Od dawna chciałem pracować w IT, dlatego szukam szans na rozwój, szczególnie w testowaniu manualnym z perspektywą szybkiego przejścia do automatyzacji, ale także w obsłudze i analizie danych, programowaniu oraz pracy z AI.
 
 ## Certyfikaty
 
@@ -14,35 +15,33 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 ## Umiejętności testerskie
 
 ### Testowanie manualne:
-* Tworzenie przypadków i scenariuszy testowych 
-* Raportowanie błędów
-* Testowanie w cyklu życia oprogramowania
-* Testowanie statyczne
-* Testowanie eksploracyjne
-* Testowanie Api w narzędziu Postman
-* Tworzenie planu testów
+* Tworzenie przypadków i scenariuszy testowych
+* Raportowanie błędów i testowanie w cyklu życia oprogramowania
+* Testowanie statyczne, eksploracyjne, regresji oraz API
+* Tworzenie planów testów
 * Testowanie w oparciu o specyfikację
-* Podstawowe techniki testowania oparte na strukturze
+* Podstawowe techniki testowania oparte na strukturze - białoskrzynkowe
 
 ### Automatyzacja testów:
-* Automatyzacja testów w Cypress
-* Przygotowywanie uruchamialnych skryptów testów automatycznych w Selenium IDE
+* Automatyzacja testów end-to-end w Cypress
+* Projektowanie i uruchamianie skryptów testowych w Selenium IDE
 
 #### Testy wydajnościowe:
-* Projektowanie efektywnych scenariuszy testowych
-* Testowanie wydajności bazy danych
+* Projektowanie scenariuszy testowych w JMeter
+* Testowanie wydajności baz danych
 
-### Bazy danych:
+### Bazy danych i programowanie:
 * Tworzenie złożonych zapytań SQL
+* Podstawy programowania w Python i Java
+* Przetwarzanie i analiza danych w MS Excel
 * Analiza danych z wykorzystaniem różnych technik
 
-### Języki programowania:
-* Podstawy programowania Python
-* Podstawy programowania Java
+### Wykorzystanie AI:
+* Praktyczne wykorzystanie narzędzi opartych na AI
 
 ### Pozostałe umiejętności:
 * Zarządzanie wersjami oprogramowania z wykorzystaniem Git oraz GitHub
-* Korzystanie z narzędzi deweloperskich dostępnych z poziomu przeglądarki (DevTools)
+* Korzystanie z narzędzi deweloperskich w przeglądarkach (DevTools)
 
 ## Kursy 
 
@@ -73,29 +72,18 @@ Jestem osobą o pozytywnym nastawieniu, chętną do pomocy innym oraz pracowitą
 * [Podróż przez świat testowania - K. Pawłowska i N. Pawlak](https://www.empik.com/podroz-przez-swiat-testowania-natalia-pawlak-karolina-pawlowska,p1458880130,ebooki-i-mp3-p)
 * [Analityk danych. Przewodnik po data science, statystyce i uczeniu maszynowym - A. J. Gutman i J. Goldmeier](https://helion.pl/ksiazki/analityk-danych-przewodnik-po-data-science-statystyce-i-uczeniu-maszynowym-alex-j-gutman-jordan-goldmeier,dascbi.htm#format/d)
 
-## Wykorzystywane narzędzia testerskie:
+## Wykorzystywane narzędzia:
 
-* Jira oraz plugin XRay
-* TestLink
-* TestRail
+* Jira + XRay, TestRail, TestLink, Trello
+* Postman, Selenium IDE, Cypress, JMeter
 * Microsoft SQL Server Management Studio
-* Postman
-* Selenium IDE
-* Cypress
-* JMeter
-* PyCharm
-* IntelliJ IDEA
-* Chrome Dev Tools
-* Trello
-* Narzędzia do zrzutów ekranu oraz nagrań wideo.
-
-## Inne znane narzędzia:
-
-* Adobe Illustrator
-* Corel Draw
-* Microsoft Excel
-* Microsoft Word
-* Narzędzia do personalizowania druku.
+* Git, GitHub,
+* PyCharm, IntelliJ IDEA
+* ChatGPT, Cursor, Copilot
+* Adobe Illustrator, Corel Draw
+* Microsoft Excel, Microsoft Word
+* DevTools
+* Narzędzia do zrzutów ekranu, nagrań wideo oraz personalizacji.
 
 ## Moje wybrane dokumentacje testowe (stała aktualizacja)
 
