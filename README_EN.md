@@ -2,8 +2,8 @@
 
 ## About me
 
-I am a positive, hardworking and committed person who passionately changed my profession to become a software tester. The internship and ISTQB and MITC certificates support my development towards a tester. Although I come from a different industry, I can apply a lot of what I have learned in a new role. This includes working with many people in diverse teams, attention to quality, precision and an analytical approach. I managed processes, operated advanced systems and machines, developing technical skills, responsibility for timeliness and efficiency.
-I have long wanted to work in IT, so I am looking for opportunities to develop, especially in manual testing with the prospect of a quick transition to automation, but also in data handling and analysis, programming and working with AI.
+I'm a positive, hard-working, and committed individual who passionately transitioned into software testing. Internships, projects (including commercial ones), certifications, and literature have supported my development as a tester. Although I come from a different industry, I can apply much of what I've learned to my new role. This includes working with multiple people in diverse teams, focusing on quality, precision, and an analytical approach. I've managed processes and operated advanced systems and machines, developing technical skills, responsibility for timeliness, and efficiency.
+I've long wanted to work in IT, so I'm looking for opportunities to develop, particularly in manual testing with the prospect of quickly transitioning to automation, but also in data handling and analysis, accessibility auditing, programming, and working with AI.
 
 ## Certificate
 
@@ -16,75 +16,76 @@ I have long wanted to work in IT, so I am looking for opportunities to develop, 
 ## Tester skills/Hard skills
 
 ### Manual Testing:
-* Creating test cases and scenarios.
-* Reporting bugs and testing throughout the software lifecycle.
-* Static, exploratory, regression, and API testing.
-* Creating test plans.
-* Specification-based testing.
-* Basic structure-based testing techniques - white-box.
+* Creating test cases, scenarios, and test plans.
+* Bug reporting and testing throughout the software lifecycle.
+* Static, exploratory, regression, and acceptance testing (UAT).
+* REST API testing - functionality, automation, security, and performance.
+* Specification (black-box) and structure (white-box) testing.
+* Accessibility testing (WCAG) and UI and UX fundamentals.
 
 ### Test Automation:
-* End-to-end test automation in Cypress.
-* Designing and running test scripts in Selenium IDE.
+* End-to-end test automation in Cypress and scripting in Selenium IDE.
 
 ### Performance Testing:
-* Designing Test Scenarios in JMeter
-* Database Performance Testing.
+* Creating JMeter scenarios and analyzing system performance and stability.
 
 ### Databases and programming:
-* Creating complex SQL queries.
-* Basics of programming in Python and Java.
-* Processing and analyzing data in MS Excel.
-* Analyzing data using various techniques.
+* Creating SQL queries, verifying data consistency and integrity.
+* Basic programming in Python, Java, JavaScript, HTML, and CSS.
+* Data processing and analysis in MS Excel.
 
 ### Using AI:
 * Practical use of AI-based tools.
 
 ### Other skills:
-* Managing software versions using Git and GitHub.
-* Using browser-based developer tools (DevTools).
+* Version management with Git and GitHub and using DevTools.
 
 ## Courses
 
-* Practical software testing course
-* Testing bootcamp - software testing
-* Jira from scratch - project management
-* JMeter from scratch - complete performance testing course
-* Testuj.pl - SQL course
-* REST API testing - REST Assured Java
-* Test automation - REST Assured API in Java from scratch
-* Python from scratch for beginners
-* Santander - Cybersecurity for everyone with Poznań University of Technology 2024
-* Santander - Scrum basics - agile project management
+* Practical Software Testing Course
+* Testing Bootcamp - Software Testing
+* Software Testing in Practice | Bootcamp
+* Jira from the Ground Up - Project Management
+* JMeter from the Ground Up - Complete Performance Testing Course
+* Testuj.pl - SQL Course
+* REST API Testing - REST Assured Java
+* Test Automation - REST Assured API in Java from the Ground Up
+* Python from the Ground Up for Beginners
+* Digital Accessibility with EAA: A Practical WCAG Guide
+* Digital Accessibility. Introduction to the WCAG 2.1 Topics and Guidelines
+* Digital Accessibility. Validation Tool and Accessible Content Creation
+* Digital Accessibility. Best Practices for Creating Accessible Pages and Correctly Using ARIA Attributes
+* Complete UX/UI Course: Master Figma and Become a Designer
+* Santander - Cybersecurity for Everyone with Poznań University of Technology 2024
+* Santander - Scrum Basics - Agile Project Management
 * Santander - Leadership
-* Santander - Effective communication
-* Santander - Effective written communication in business
-* Santander - Critical thinking and problem solving
+* Santander - Effective Communication
+* Santander - Effective Written Communication in Business
+* Santander - Critical Thinking and Problem Solving
 
 ## Books and publications
 
-* [Software testing and quality. Models, techniques, tools. 2nd edition - A. Roman](https://ksiegarnia.pwn.pl/Testowanie-i-jakosc-oprogramowania.,958393708,p.html?srsltid=AfmBOor6BAL774TWFhI_pzoe-W-Pyv8elv40Kbaaymn5nNJ9KdrZi2gt)
-* [Tester profession: From decision to gaining experience - R. Smilgin](https://ksiegarnia.pwn.pl/Zawod-tester,750906499,p.html)
-* [Testing practice. Workbook - R. Smilgin](https://ksiegarnia.pwn.pl/Praktyka-testowania,847295499,p.html?srsltid=AfmBOorbKDLaF0fb9P30pLSziSvsTkyx3-hoPVrmkpzkpeebghQrg6WC)
-* [SQL. Practical exercises. 3rd edition - M. Lis](https://helion.pl/ksiazki/sql-cwiczenia-praktyczne-wydanie-iii-marcin-lis,cwsql3.htm#format/e)
-* [Git and GitHub. Version control, project management and temawor principles - M. Tsitoara](https://helion.pl/ksiazki/git-i-github-kontrola-wersji-zarzadzanie-projektami-i-zasady-pracy-zespolowej-mariot-tsitoara,wprgit.htm#format/d)
-* [Python for tester - P. Wróblewski](https://helion.pl/ksiazki/python-dla-testera-piotr-wroblewski,pyttes.htm#format/d)
-* [Passion for testing. 2nd expanded edition  - K. Jadczyk](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d)
-* [A journey through the world of testing - K. Pawłowska i N. Pawlak](https://www.empik.com/podroz-przez-swiat-testowania-natalia-pawlak-karolina-pawlowska,p1458880130,ebooki-i-mp3-p)
-* [Data scientist. A guide to data science, statistics and machine learning - A. J. Gutman i J. Goldmeier](https://helion.pl/ksiazki/analityk-danych-przewodnik-po-data-science-statystyce-i-uczeniu-maszynowym-alex-j-gutman-jordan-goldmeier,dascbi.htm#format/d)
+* Software testing and quality. Models, techniques, tools. 2nd edition - A. Roman
+* Tester profession: From decision to gaining experience - R. Smilgin
+* Testing practice. Workbook - R. Smilgin
+* SQL. Practical exercises. 3rd edition - M. Lis
+* Git and GitHub. Version control, project management and temawor principles - M. Tsitoara
+* Python for tester - P. Wróblewski
+* Passion for testing. 2nd expanded edition  - K. Jadczyk
+* A journey through the world of testing - K. Pawłowska i N. Pawlak
+* Data scientist. A guide to data science, statistics and machine learning - A. J. Gutman i J. Goldmeier
+* Web Accessibility: An Introduction to Digital Accessibility - W. Kutyła
+* API Testing and Development in Postman: Easily Create, Test, Debug, and Manage APIs. 2nd Edition - D. Westerveld
+* Postman in Practice: The Complete Guide to REST APIs - R. Podraza
+* Excel 365: The Bible - M. Alexander, D. Kusleika
 
 ## Tools used:
 
-* Jira + XRay, TestRail, TestLink, Trello
-* Postman, Selenium IDE, Cypress, JMeter
-* Microsoft SQL Server Management Studio
-* Git, GitHub,
-* PyCharm, IntelliJ IDEA
-* ChatGPT, Cursor, Copilot
-* DevTools
-* Adobe Illustrator, Corel Draw
-* Microsoft Office - MS Excel, MS Word, MS PowerPoint
-* Screenshot, video recording, and personalization tools.
+* Jira + XRay, Confluence, TestRail, TestLink, Trello, Linear
+* Postman, Selenium IDE, Cypress, JMeter, DevTools 
+* Git, GitHub, PyCharm, IntelliJ IDEA, ChatGPT, Copilot
+* Microsoft Office (Excel, Word, PowerPoint), Microsoft SQL Server Management Studio
+* Adobe Illustrator, Corel Draw, Figma
 
 ## My selected test documentation (constantly updated)
 

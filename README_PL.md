@@ -2,8 +2,8 @@
 
 ## O mnie
 
-Jestem osobą pozytywną, pracowitą i zaangażowaną, która z pasją przebranżowiła się na testera oprogramowania. Staż oraz certyfikaty ISTQB i MITC wspierają mój rozwój w kierunku testera. Choć pochodzę z innej branży, wiele z tego, czego się nauczyłem, mogę zastosować na w nowej roli. To m.in. praca z wieloma osobami w zróżnicowanych zespołach, dbałość o jakość, precyzja i analityczne podejście. Zarządzałem procesami, obsługiwałem zaawansowane systemy i maszyny, rozwijając umiejętności techniczne, odpowiedzialność za terminowość oraz efektywność. 
-Od dawna chciałem pracować w IT, dlatego szukam szans na rozwój, szczególnie w testowaniu manualnym z perspektywą szybkiego przejścia do automatyzacji, ale także w obsłudze i analizie danych, programowaniu oraz pracy z AI.
+Jestem pozytywną, pracowitą i zaangażowaną osobą, która z pasją przebranżowiła się na testera oprogramowania. Staż, projekty (również komercyjne), certyfikaty i literatura wspierają mój rozwój jako testera. Choć pochodzę z innej branży, wiele z tego, czego się nauczyłem, mogę zastosować w nowej roli. To m.in. praca z wieloma osobami w zróżnicowanych zespołach, dbałość o jakość, precyzja i analityczne podejście. Zarządzałem procesami, obsługiwałem zaawansowane systemy i maszyny, rozwijając umiejętności techniczne, odpowiedzialność za terminowość oraz efektywność. 
+Od dawna chciałem pracować w IT, dlatego szukam szans na rozwój, szczególnie w testowaniu manualnym z perspektywą szybkiego przejścia do automatyzacji, ale także w obsłudze i analizie danych, audytowaniu dostępności, programowaniu oraz pracy z AI.
 
 ## Certyfikaty
 
@@ -15,44 +15,46 @@ Od dawna chciałem pracować w IT, dlatego szukam szans na rozwój, szczególnie
 ## Umiejętności testerskie
 
 ### Testowanie manualne:
-* Tworzenie przypadków i scenariuszy testowych
-* Raportowanie błędów i testowanie w cyklu życia oprogramowania
-* Testowanie statyczne, eksploracyjne, regresji oraz API
-* Tworzenie planów testów
-* Testowanie w oparciu o specyfikację
-* Podstawowe techniki testowania oparte na strukturze - białoskrzynkowe
+* Tworzenie przypadków, scenariuszy testowych i planu testów.
+* Raportowanie błędów i testowanie w cyklu życia oprogramowania.
+* Testowanie statyczne, eksploracyjne, regresji, akceptacyjne (UAT).
+* Testowanie REST API - funkcjonalność, automatyzacja, bezpieczeństwo, wydajność.
+* Testowanie według specyfikacji (czarnoskrzynkowe) i struktury (białoskrzynkowe).
+* Testowanie dostępności (WCAG) oraz podstawy UI i UX.
 
 ### Automatyzacja testów:
-* Automatyzacja testów end-to-end w Cypress
-* Projektowanie i uruchamianie skryptów testowych w Selenium IDE
+* Automatyzacja testów end-to-end w Cypress i skrypty w Selenium IDE.
 
 ### Testy wydajnościowe:
-* Projektowanie scenariuszy testowych w JMeter
-* Testowanie wydajności baz danych
+* Tworzenie scenariuszy JMeter oraz analiza wydajności i stabilności systemów.
 
 ### Bazy danych i programowanie:
-* Tworzenie złożonych zapytań SQL
-* Podstawy programowania w Python i Java
-* Przetwarzanie i analiza danych w MS Excel
-* Analiza danych z wykorzystaniem różnych technik
+* Tworzenie zapytań SQL, weryfikacja spójności i integralności danych.
+* Podstawy programowania w Python, Java, JavaScript, HTML, CSS.
+* Przetwarzanie i analiza danych w MS Excel.
 
 ### Wykorzystanie AI:
-* Praktyczne wykorzystanie narzędzi opartych na AI
+* Praktyczne wykorzystanie narzędzi opartych na AI.
 
 ### Pozostałe umiejętności:
-* Zarządzanie wersjami oprogramowania z wykorzystaniem Git oraz GitHub
-* Korzystanie z narzędzi deweloperskich w przeglądarkach (DevTools)
+* Zarządzanie wersjami z Git i GitHub oraz korzystanie z DevTools.
 
 ## Kursy 
 
 * Praktyczny kurs testowania oprogramowania
 * Bootcamp testerski - testowanie oprogramowania
+* Testowanie Oprogramowania w praktyce | Bootcamp
 * Jira od podstaw - zarządzanie projektami
 * JMeter od podstaw - kompletny kurs testowania wydajności
 * Testuj.pl - Kurs SQL
 * Testowanie REST API - REST Assured Java
 * Automatyzacja testów - API REST Assured w Java od podstaw
 * Python od podstaw dla początkujących
+* Dostępność cyfrowa z EAA: Praktyczny przewodnik WCAG
+* Dostępność cyfrowa. Wprowadzenie do tematyki i wytycznych WCAG 2.1
+* Dostępność cyfrowa. Narzędzie walidacyjne i tworzenie dostępnych treści
+* Dostępność cyfrowa. Dobre praktyki tworzenia dostępnych stron i poprawne stosowanie atrybutów ARIA
+* Kompletny Kurs UX/UI: Opanuj Figmę i Zostań Designerem
 * Santander - Cyberbezpieczeństwo dla każdego z Politechniką Poznańską 2024
 * Santander - Podstawy Scrum - zwinne zarządzanie projektami
 * Santander - Przywództwo
@@ -62,28 +64,28 @@ Od dawna chciałem pracować w IT, dlatego szukam szans na rozwój, szczególnie
 
 ## Książki i publikacje
 
-* [Testowanie i jakość oprogramowania. Modele, techniki, narzędzia. Wydanie II - A. Roman](https://ksiegarnia.pwn.pl/Testowanie-i-jakosc-oprogramowania.,958393708,p.html?srsltid=AfmBOor6BAL774TWFhI_pzoe-W-Pyv8elv40Kbaaymn5nNJ9KdrZi2gt)
-* [Zawód tester. Od decyzji do zdobycia doświadczenia - R. Smilgin](https://ksiegarnia.pwn.pl/Zawod-tester,750906499,p.html)
-* [Praktyka testowania. Zeszyt ćwiczeń - R. Smilgin](https://ksiegarnia.pwn.pl/Praktyka-testowania,847295499,p.html?srsltid=AfmBOorbKDLaF0fb9P30pLSziSvsTkyx3-hoPVrmkpzkpeebghQrg6WC)
-* [SQL. Ćwiczenia praktyczne. Wydanie III - M. Lis](https://helion.pl/ksiazki/sql-cwiczenia-praktyczne-wydanie-iii-marcin-lis,cwsql3.htm#format/e)
-* [Git i GitHub. Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej - M. Tsitoara](https://helion.pl/ksiazki/git-i-github-kontrola-wersji-zarzadzanie-projektami-i-zasady-pracy-zespolowej-mariot-tsitoara,wprgit.htm#format/d)
-* [Python dla testera - P. Wróblewski](https://helion.pl/ksiazki/python-dla-testera-piotr-wroblewski,pyttes.htm#format/d)
-* [Pasja testowania. Wydanie II rozszerzone - K. Jadczyk](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d)
-* [Podróż przez świat testowania - K. Pawłowska i N. Pawlak](https://www.empik.com/podroz-przez-swiat-testowania-natalia-pawlak-karolina-pawlowska,p1458880130,ebooki-i-mp3-p)
-* [Analityk danych. Przewodnik po data science, statystyce i uczeniu maszynowym - A. J. Gutman i J. Goldmeier](https://helion.pl/ksiazki/analityk-danych-przewodnik-po-data-science-statystyce-i-uczeniu-maszynowym-alex-j-gutman-jordan-goldmeier,dascbi.htm#format/d)
+* Testowanie i jakość oprogramowania. Modele, techniki, narzędzia. Wydanie II - A. Roman
+* Zawód tester. Od decyzji do zdobycia doświadczenia - R. Smilgin
+* Praktyka testowania. Zeszyt ćwiczeń - R. Smilgin
+* SQL. Ćwiczenia praktyczne. Wydanie III - M. Lis
+* Git i GitHub. Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej - M. Tsitoara
+* Python dla testera - P. Wróblewski
+* Pasja testowania. Wydanie II rozszerzone - K. Jadczyk
+* Podróż przez świat testowania - K. Pawłowska i N. Pawlak
+* Analityk danych. Przewodnik po data science, statystyce i uczeniu maszynowym - A. J. Gutman i J. Goldmeier
+* Web accessibility. Wprowadzenie do dostępności cyfrowej - W. Kutyła
+* Testowanie i rozwój API w Postmanie. Łatwe tworzenie, testowanie, debugowanie i zarządzanie API. Wydanie II - D. Westerveld
+* Postman w praktyce. Kompletny przewodnik po REST API - R. Podraza
+* Excel 365. Biblia - M. Alexander, D. Kusleika
+* 
 
 ## Wykorzystywane narzędzia:
 
-* Jira + XRay, TestRail, TestLink, Trello
-* Postman, Selenium IDE, Cypress, JMeter
-* Microsoft SQL Server Management Studio
-* Git, GitHub,
-* PyCharm, IntelliJ IDEA
-* ChatGPT, Cursor, Copilot
-* DevTools
-* Adobe Illustrator, Corel Draw
-* Microsoft Office - MS Excel, MS Word, MS PowerPoint
-* Narzędzia do zrzutów ekranu, nagrań wideo oraz personalizacji.
+* Jira + XRay, Confluence, TestRail, TestLink, Trello, Linear
+* Postman, Selenium IDE, Cypress, JMeter, DevTools 
+* Git, GitHub, PyCharm, IntelliJ IDEA, ChatGPT, Copilot
+* Microsoft Office (Excel, Word, PowerPoint), Microsoft SQL Server Management Studio
+* Adobe Illustrator, Corel Draw, Figma
 
 ## Moje wybrane dokumentacje testowe (stała aktualizacja)
 
