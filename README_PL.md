@@ -77,7 +77,6 @@ Od dawna chciałem pracować w IT, dlatego szukam szans na rozwój, szczególnie
 * Testowanie i rozwój API w Postmanie. Łatwe tworzenie, testowanie, debugowanie i zarządzanie API. Wydanie II - D. Westerveld
 * Postman w praktyce. Kompletny przewodnik po REST API - R. Podraza
 * Excel 365. Biblia - M. Alexander, D. Kusleika
-* 
 
 ## Wykorzystywane narzędzia:
 
